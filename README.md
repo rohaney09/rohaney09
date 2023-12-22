@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohaney09
+- 👋 Hi, I’m Rohan Paul
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning bootstrap
 - 💞️ I’m looking to collaborate on projects using GitHub
