@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaney09&label=Profile%20views&color=0e75b6&style=flat" alt="rohaney09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohaney09" alt="rohaney09" /></a> </p>
+<p align="left"> <a href="https://github.com/rohaney09/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohaney09" alt="rohaney09" /></a> </p>
 
 - 🔭 I’m currently working on *Breast cancer detection using ml*
 
