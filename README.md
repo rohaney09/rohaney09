@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohaney09/rohaney09/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=F75590&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Full+Stack+Developer;Passionate+about+Web+%26+AI" alt="Typing SVG" />
 </p>
+
 
 
 
