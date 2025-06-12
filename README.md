@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on *Breast cancer detection using ml*
+- 🔭 I’m currently working on *MERN stack*
 
 - 🌱 I’m currently learning *React js, Node js, mangodb*
 
