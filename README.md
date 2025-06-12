@@ -5,15 +5,14 @@
 
 - 🔭 I’m currently working on *MERN stack*
 
-- 🌱 I’m currently learning *React js, Node js, mangodb*
+- 🌱 I’m currently learning *Express js, Node js, mangodb*
 
-- 👯 I’m looking to collaborate on *ITTBS- Indian train ticket booking system*
 
-- 🤝 I’m looking for help with *Objects detection in blind spot using ultrasonic sensor*
+- 🤝 I completed with *Objects detection in blind spot using ultrasonic sensor*
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohaney09?tab=repositories](https://github.com/rohaney09?tab=repositories)
 
-- 💬 Ask me about *react, Java*
+- 💬 Ask me about *react, Java, JS*
 
 - 📫 How to reach me *rohan9.emp@gmail.com*
   
