@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohan Paul</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohaney09/rohaney09/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 
 - 🔭 I’m currently working on *MERN stack*
