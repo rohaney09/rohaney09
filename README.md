@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Paul</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=F75590&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Full+Stack+Developer;Passionate+about+Web+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=#4169E1&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Full+Stack+Developer;Passionate+about+Web+%26+AI" alt="Typing SVG" />
 </p>
 
 
