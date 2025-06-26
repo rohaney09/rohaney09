@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=4169E1&width=435&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Full+Stack+Developer;Passionate+about+Web+%26+AI" alt="Typing SVG" />
 </p>
 
-
 - 🔭 I’m currently working on *MERN stack*
 
 - 🌱 I’m currently learning *Express js, Node js, mangodb*
