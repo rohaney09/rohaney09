@@ -5,8 +5,6 @@
 </p>
 
 
-
-
 - 🔭 I’m currently working on *MERN stack*
 
 - 🌱 I’m currently learning *Express js, Node js, mangodb*
