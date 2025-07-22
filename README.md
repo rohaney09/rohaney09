@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#1E90FF;">Rohan Paul</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%; height:350px; object-fit: cover;" alt="Developer GIF">
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:500px; height:350px; object-fit: cover;" alt="Developer GIF">
 </p>
 
 ---
