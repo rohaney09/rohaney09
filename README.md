@@ -1,62 +1,47 @@
-<h1 align="center">Hi 👋, I'm Rohan Paul</h1>
-<h3 align="center">A passionate MERN stack developer and MCA graduate</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#1E90FF;">Rohan Paul</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;Java+%7C+MERN+%7C+Python+Lover;Learning+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=4169E1&center=true&width=450&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Java+%7C+MERN+Stack;Exploring+Tech+with+Creativity+%f0%9f%a7%a0" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:500px; height:350px; object-fit: cover;" alt="Developer GIF">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 MCA Graduate | BCA | 9.3 CGPA  
-- 💻 Currently building **PetConnect – Lost & Found Pet System**  
-- 🔭 Exploring opportunities in **Web Development | Data | Support roles**  
-- 🌱 Currently learning **Node.js, Express.js, and MongoDB**  
-- 📫 Reach me at: **rohanpaul@example.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+- 💼 I’m currently working on **MERN stack projects**
+- 🌱 Learning: *Express.js, Node.js, MongoDB*
+- 🔗 Completed project: *Object Detection in Blind Spot using Ultrasonic Sensor*
+- 👨‍💻 All Projects: [GitHub Repos](https://github.com/rohaney09?tab=repositories)
+- 🙋‍♂️ Ask Me About: *React, Java, JavaScript*
+- 📧 Contact Me: *rohan9.emp@gmail.com*
+- 📅 Portfolio: [My Portfolio](https://rohaney09.github.io/Digital-Portfolio/)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1i0atEEE2XMajZQ8vwMQuQ2orsz9kZOPj/view?usp=sharing)
+- ✨ Fun fact: *The first computer bug was an actual bug! Fixing bugs = Pest Control 🐛🚀*
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="center">💬 Connect with Me</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanpaul&show_icons=true&theme=github_dark&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpaul&layout=compact&theme=github_dark" height="180"/>
+  <a href="https://www.linkedin.com/in/rohanpaul888" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/rohanxxzy" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanpaul)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=vercel&logoColor=white)](https://rohan-portfolio.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white)](mailto:rohanpaul@example.com)
-
----
-
-### 🏆 Fun Facts
-
-- I drink 💧code and sleep 💤debug
-- I love building helpful mini-projects
-- Dreaming of contributing to open source 🧠
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,mongodb,express,javascript,html,css,figma,mysql,linux,python,c,cpp" />
+</p>
 
 ---
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
