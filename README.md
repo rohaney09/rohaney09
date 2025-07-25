@@ -41,16 +41,6 @@
 
 ---
 
-<h3 align="center">🌟 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohaney09&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohaney09&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohaney09&layout=compact&theme=onedark" />
-</p>
 
 ---
 
