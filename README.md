@@ -11,7 +11,7 @@
 ---
 
 - 💼 I’m currently working on **MERN Stack Projects**
-- 🌱 Learning: *Express.js, Node.js, MongoDB*
+- 🌱 Learning: *Express.js,Next.js Node.js, MongoDB*
 - 🔗 Completed project: *Object Detection in Blind Spot using Ultrasonic Sensor*
 - 👨‍💻 All Projects: [GitHub Repos](https://github.com/rohaney09?tab=repositories)
 - 🙋‍♂️ Ask Me About: *React, Java, JavaScript*
