@@ -14,7 +14,7 @@
 - 🌱 Learning: *Express.js, Next.js, Node.js, MongoDB*
 - 🔗 Completed project: *Object Detection in Blind Spot using Ultrasonic Sensor*
 - 👨‍💻 All Projects: [GitHub Repos](https://github.com/rohaney09?tab=repositories)
-- 🙋‍♂️ Ask Me About: *React, Java, JavaScript and many more*
+- 🙋‍♂️ Ask Me About: *React, Java, JavaScript*
 - 📧 Contact Me: *rohanxxzy@gmail.com*
 - 📅 Portfolio: [My Portfolio](https://rohanxxzy.wixsite.com/rohan-portfolio)
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1vma8dft2froGLLqalEtPI0svteF5070D/view?usp=drive_link)
