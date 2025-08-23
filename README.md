@@ -40,6 +40,9 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/rohaney09/rohaney09/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <p align="center">
