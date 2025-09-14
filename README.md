@@ -18,7 +18,7 @@
 - 📧 Contact Me: *rohanxxzy@gmail.com*
 - 📅 Portfolio: [My Portfolio](https://rohanxxzy.wixsite.com/rohan-portfolio)
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1vma8dft2froGLLqalEtPI0svteF5070D/view?usp=drive_link)
-- ✨ Fun fact: *The first computer bug was an actual bug! Fixing bugs = Pest Control 🐛🚀*
+- ✨ Fun fact: *The first computer bug was an actual bug ! Fixing bugs = Pest Control 🐛🚀*
 
 ---
 
