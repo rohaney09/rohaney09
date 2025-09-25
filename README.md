@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://your-link-to-gif.gif" width="500" height="350" alt="API Circuit Animation">
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:500px; height:350px; object-fit: cover;" alt="Developer GIF">
 </p>
 
