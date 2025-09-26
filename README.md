@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#1E90FF;">Rohan Paul</span> 🚀</h1>
+<h1 align="center">Hi 👋, I'm Rohan Paul 🚀</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="API Circuit Animation">
 </p>
