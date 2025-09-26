@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#1E90FF;">Rohan Paul</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=90EE90&center=true&width=450&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Java+%7C+MERN+Stack;Exploring+Tech+with+Creativity+%f0%9f%a7%a0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&center=true&width=450&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Java+%7C+MERN+Stack;Exploring+Tech+with+Creativity+%f0%9f%a7%a0" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="450" alt="API Circuit Animation">
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:500px; height:350px; object-fit: cover;" alt="Developer GIF">
 </p>
 
 ---
