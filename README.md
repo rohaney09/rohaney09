@@ -29,25 +29,7 @@
 </p>
 
 <h3 align="center">💬 Connect with Me</h3>
-<table align="center">
-  <tr>
-    <!-- Left column: badges -->
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rohanpaul888" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-      </a>
-      <br/>
-      <a href="https://www.hackerrank.com/profile/rohanxxzy" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
-      </a>
-    </td>
-
-    <!-- Right column: GIF -->
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" height="400" alt="API Circuit Animation">
-    </td>
-  </tr>
-</table>
+<p align="center"> <a href="https://www.linkedin.com/in/rohanpaul888" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /> </a> <a href="https://www.hackerrank.com/profile/rohanxxzy" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" /> </a> </p>
 
 
 
