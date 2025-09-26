@@ -29,19 +29,24 @@
 </p>
 
 <h3 align="center">💬 Connect with Me</h3>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rohanpaul888" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://www.hackerrank.com/profile/rohanxxzy" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
   </a>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  alt="API Circuit Animation">
 </p>
+</p>
+
 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="API Circuit Animation">
 </p>
+
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
