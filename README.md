@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 40px; font-weight: bold;">
+<p align="center" style="font-size: 80px; font-weight: bold;">
   Hi 👋, I'm Rohan Paul 🚀
 </p>
 <p align="center">
