@@ -10,15 +10,15 @@
 
 ---
 
-- 💼 I’m currently working on **MERN Stack Projects**
-- 🌱 Learning: *Express.js, Next.js, Node.js, MongoDB, Spring Boot*
-- 🔗 Completed project: *Object Detection in Blind Spot using Ultrasonic Sensor*
-- 👨‍💻 All Projects: [GitHub Repos](https://github.com/rohaney09?tab=repositories)
-- 🙋‍♂️ Ask Me About: *React, Java, SQL, Spring, JavaScript*
-- 📧 Contact Me: *rohanxxzy@gmail.com*
-- 📅 Portfolio: [My Portfolio](https://rohanxxzy.wixsite.com/rohan-portfolio)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1vma8dft2froGLLqalEtPI0svteF5070D/view?usp=drive_link)
-- ✨ Fun fact: *The first computer bug was an actual bug ! Fixing bugs = Pest Control 🐛🚀*
+- 💼 Currently working on **MERN Stack & Java Full-Stack Projects**  
+- 🌱 Learning: *Node.js, Express.js, Next.js, MongoDB, Spring Boot, Hibernate*  
+- 🚀 Latest Project: *PetConnect – Lost & Found Pet Reporting System (MERN)*  
+- 🔗 Completed Project: *Object Detection in Blind Spot using Ultrasonic Sensor*  
+- 👨‍💻 Explore all my projects: [GitHub Repos](https://github.com/rohaney09?tab=repositories)  
+- 🙋‍♂️ Ask Me About: *React, Java, SQL, Spring Boot, JavaScript, MERN Stack*  
+- 📧 Reach Me: **rohanxxzy@gmail.com**  
+- 🌐 Portfolio: [My Portfolio](https://rohanxxzy.wixsite.com/rohan-portfolio)  
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1vma8dft2froGLLqalEtPI0svteF5070D/view?usp=drive_link)  
 
 ---
 
