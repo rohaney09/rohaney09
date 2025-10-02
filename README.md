@@ -28,10 +28,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="API Circuit Animation">
 </p>
 
-<h3 align="center">💬 Connect with Me</h3>
+<h3 align="center">💬 Connect with Me...</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/rohanpaul888" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /> </a> <a href="https://www.hackerrank.com/profile/rohanxxzy" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" /> </a> </p>
-
-
 
 
 <p align="center">
