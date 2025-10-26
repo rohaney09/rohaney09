@@ -21,7 +21,7 @@
 - 🙋‍♂️ Ask Me About: *React, Java, SQL, Spring Boot, JavaScript, MERN Stack*  
 - 📧 Reach Me: **rohanxxzy@gmail.com**  
 - 🌐 Portfolio: [My Portfolio](https://rohanxxzy.wixsite.com/rohan-portfolio)  
-- 📄 Resume: [View Resume] 
+  
 
 
 <p align="center">
