@@ -7,16 +7,3 @@
 </p>
 <br><br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,react,mongodb,mysql" />
-</p>
-
-<p align="center">
-<b>Backend:</b> Java, JDBC, Hibernate, Spring, Spring MVC, Spring Boot, Microservices, Kafka <br>
-<b>Database:</b> SQL, MongoDB <br>
-<b>Frontend:</b> React
-</p>
